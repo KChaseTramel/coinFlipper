@@ -1,0 +1,8 @@
+{
+  "name": "coinFlipper",
+  "version": "1.0.0",
+  "description": "This takes user input for a number of flips to a coin and returns number of heads and tails.",
+  "dependencies": {
+    "prompt": "1.0.0"
+  }
+}
