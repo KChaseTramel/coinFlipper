@@ -9,7 +9,7 @@ var flipper = function (i) {
     var heads = 0;
     var tails = 0;
     while (i > 0) {
-        var f = Math.random() * 1;
+        var f = Math.random();
         if (f < .5) {
             heads++;
         } else {
